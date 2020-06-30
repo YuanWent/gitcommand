@@ -6,6 +6,6 @@
 * [3.查看提交历史](3cha-kan-ti-jiao-li-shi.md)
 * [4.撤销](4che-xiao.md)
 * [5.分支与标签](5fen-zhi-yu-biao-qian.md)
-* 6.合并与焰合
+* [6.合并与焰合](6he-bing-yu-yan-he.md)
 * 7.远程操作
 
