@@ -1,0 +1,28 @@
+{
+    "plugins": [
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "pageview-count",
+        "tbfed-pagefooter",
+        "-sharing",
+        "sharing-plus",
+		"hide-element",
+		"popup",
+		"auto-scroll-table"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy Pluto版权所有",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+		"hide-element": {
+		"elements": [".gitbook-link"]
+		}
+    }
+}
