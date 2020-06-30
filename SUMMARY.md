@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [1.创建版本库](chapter1.md)
-* 2.修改和提交
+* [2.修改和提交](2xiu-gai-he-ti-jiao.md)
 * 3.查看提交历史
 * 4.撤销
 * 5.分支与标签
