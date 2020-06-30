@@ -1,3 +1,9 @@
-# My Awesome Book
+# Git常用命令速查表
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+1. 创建版本库
+2. 修改和提交
+3. 查看提交历史
+4. 撤销
+5. 分支与标签
+6. 合并与焰合
+7. 远程操作
